@@ -354,9 +354,13 @@ Implemented security checks and automation into Infrastructure as Code workflows
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devopsbyashish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=devopsbyashish&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devopsbyashish&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devopsbyashish&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devopsbyashish&theme=tokyo-night&hide_border=true&area=true&custom_title=Ashish%20Kumar%20-%20Contribution%20Activity" width="95%" />
 
 </div>
 
@@ -447,11 +451,21 @@ Security Scanning
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devopsbyashish&theme=tokyo-night&hide_border=true&area=true"/>
+<a href="https://github.com/devopsbyashish">
+<img src="https://github-readme-stats.vercel.app/api?username=devopsbyashish&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&custom_title=Ashish%20Kumar%20-%20GitHub%20Activity&cache_seconds=1800" width="700"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/devopsbyashish?tab=repositories">
+<img src="https://img.shields.io/github/commit-activity/y/devopsbyashish?style=for-the-badge&label=YEARLY%20ACTIVITY"/>
+<img src="https://img.shields.io/github/last-commit/devopsbyashish?style=for-the-badge&label=LAST%20COMMIT"/>
+<img src="https://img.shields.io/github/repos/devopsbyashish?style=for-the-badge&label=PUBLIC%20REPOSITORIES"/>
+</a>
 
 </div>
 
