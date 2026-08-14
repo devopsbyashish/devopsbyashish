@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:00BFFF,100:0078D4&height=220&section=header&animation=twinkling" width="100%"/>
-
 <img src="./stars-banner.svg" width="100%" alt="Ashish Kumar - Cloud & DevOps Engineer"/>
 
 ### 👋 Hi, I'm **Ashish Kumar**
