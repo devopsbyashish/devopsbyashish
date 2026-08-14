@@ -2,9 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:00BFFF,100:0078D4&height=220&section=header&animation=twinkling" width="100%"/>
 
-# 👋 Hi, I'm Ashish Kumar
+<img src="./stars-banner.svg" width="100%" alt="Ashish Kumar - Cloud & DevOps Engineer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile;Cloud+%26+DevOps+Engineer;Microsoft+Azure+%7C+Terraform;Azure+DevOps+%7C+GitHub+Actions;Infrastructure+as+Code+(IaC);Cloud+Infrastructure+Automation;DevSecOps+%7C+CI%2FCD+Automation;AIOps+%7C+MLOps+%7C+Cloud+Automation" />
+### 👋 Hi, I'm **Ashish Kumar**
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1800&pause=700&color=0078D4&center=true&vCenter=true&width=850&lines=Microsoft+Azure;Terraform;Azure+DevOps;GitHub+Actions;Docker;Kubernetes;Azure+Key+Vault;Azure+Monitor;Linux;PowerShell;Python;Bash;DevSecOps;AIOps+%26+MLOps" />
 
 <br>
 
