@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ashish Kumar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:00BFFF,100:0078D4&height=220&section=header&text=Ashish%20Kumar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile;Cloud+%26+DevOps+Engineer;Microsoft+Azure+%7C+Terraform;Azure+DevOps+%7C+GitHub+Actions;Infrastructure+as+Code+(IaC);Cloud+Infrastructure+Automation;DevSecOps+%7C+CI%2FCD+Automation;AIOps+%7C+MLOps+%7C+Cloud+Automation" />
 
